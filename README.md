@@ -17,8 +17,8 @@ I'm a passionate **Software Engineer** and **Data Analyst/Visualizer** specializ
 - [**shopify-theme**](https://github.com/caraxces/shopify-theme)  
   Custom Shopify theme built with Liquid—showcasing my favorite kind of web dev.
 
-- [**musicsharing**](https://github.com/caraxces/musicsharing)  
-  A fun, Python-based app inspired by Spotify for sharing and discovering music.
+- [**musicsharing**](https://github.com/caraxces/mylocalmusic2.git)
+  A fun, Python-ViteJS-based app inspired by Spotify for sharing and discovering music.
 
 ## 📈 What I Love
 

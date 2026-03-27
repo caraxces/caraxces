@@ -1,7 +1,6 @@
 # Hi there, I'm caraxces 👋
 
 ![Profile banner](https://i.imgur.com/oSjxcHx.gif))
-![_](https://github.com/user-attachments/assets/bb6dff34-5d90-46b1-9c09-4dac83742e43)
 ## Technologies
 
 <!-- Languages -->

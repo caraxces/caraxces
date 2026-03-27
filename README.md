@@ -1,37 +1,37 @@
 # Hi there, I'm caraxces 👋
 
-I'm a passionate **Software Engineer** and **Data Analyst/Visualizer** specializing in building robust apps, data solutions, and custom Shopify experiences.
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-## 🚀 Tech Stack & Interests
+## Technologies
 
-- **Languages:** Golang (favorite!), Python (for data viz), PHP, TypeScript
-- **Frameworks/Libraries:** Next.js, React.js, Shopify Liquid
-- **Visualization:** Tableau (combined with Python for powerful insights)
-- **Specialty:** Shopify theme customization
+<!-- Languages -->
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
-## 🌟 Featured Projects
-
-- [**data-analytics-platform**](https://github.com/caraxces/data-analytics-platform)  
-  Go-powered platform for data analytics and insights.
-
-- [**shopify-theme**](https://github.com/caraxces/shopify-theme)  
-  Custom Shopify theme built with Liquid—showcasing my favorite kind of web dev.
-
-- [**musicsharing**](https://github.com/caraxces/mylocalmusic2.git)
-  A fun, Python-ViteJS-based app inspired by Spotify for sharing and discovering music.
-
-## 📈 What I Love
-
-- Blending Golang and Python for scalable data solutions
-- Visualizing data with Tableau and custom dashboards
-- Making Shopify stores beautiful and functional
+<!-- Frameworks / ecosystems (around your languages) -->
+<div style="margin-top:8px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-2B3A67?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
 
 ---
 
-<!-- GitHub Stats (optional, uncomment if you want them) -->
+<!-- GitHub Stats (optional) -->
 <!--
 ![caraxces's GitHub stats](https://github-readme-stats.vercel.app/api?username=caraxces&show_icons=true&theme=radical)
 -->
-
-Let's build something awesome!  
-[GitHub Profile](https://github.com/caraxces)
